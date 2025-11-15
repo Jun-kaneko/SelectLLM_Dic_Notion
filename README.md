@@ -19,7 +19,7 @@
 
 ## スクリーンショット (Screenshots)
 
-(ここにGradio UIのスクリーンショットを挿入すると、より魅力的になります。例: `![App Screenshot](images/screenshot.png)`)
+![App Screenshot](images/image.png)
 
 ## 動作環境 (Requirements)
 
